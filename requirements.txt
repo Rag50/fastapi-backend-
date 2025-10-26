@@ -1,0 +1,8 @@
+fastapi==0.101.1
+uvicorn[standard]==0.22.0
+google-cloud-storage==2.11.0
+httpx==0.24.1
+google-auth-oauthlib==1.0.0
+google-api-python-client==2.100.0
+firebase-admin==6.2.0
+python-multipart
