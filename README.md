@@ -1,4 +1,4 @@
-# Minimal local uploader
+# FastApi Backend
 
 This small FastAPI app accepts a multipart file upload and uploads the file to a Google Cloud Storage bucket (default `subtitle-input`).
 
@@ -46,3 +46,4 @@ Notes:
 
 - The code uses Application Default Credentials. For local testing set `GOOGLE_APPLICATION_CREDENTIALS` to a service account JSON.
 - If you prefer signed or public URLs, you can generate them using the Storage client after upload.
+
